@@ -1,0 +1,32 @@
+.bodies{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    padding: 15px;
+    color: white;
+    width: 100%;
+    position: fixed;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+}
+#status{
+    font-size: 20px;
+    margin-top: 100px;
+}
+#status2{
+    font-weight: bold;
+}
+canvas{
+    border: 5px white ridge;
+    margin-top: 100px;
+}
+#back{
+    float: right;
+}
+.btn-muted{
+    background: black;
+    color: white;
+}
